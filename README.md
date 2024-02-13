@@ -30,6 +30,10 @@ This repository serves as a beginner-friendly introduction to data science and m
 
 9. **Spark_Wordcount.ipynb**
    - Use Spark and Hadoop with map reduce techniques to obtain word count from big data.
+   
+## Extra - Simple Neural Network Implementation
+
+A Python demonstration of a simple neural network as an educational introduction to the fundamental functions of a neural network
 
 ## Prerequisites
 
